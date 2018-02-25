@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_a0e24ff088c36f84762caf23d976379407476813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_3d45e72fdd4883912a55f4fa74a36528236f07c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_82395b54ae021faad3b62831175d982bc85a45e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d873e3d65f78df369583f1e9acafd2e2b44af2ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_c3898d3e314a4a6f7e25e977bbc3775a25f62776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_d7d345943769985733fad54f484bc49f31451434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_084ebef80c60d49e201b66a217e37ddc1cb89fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_abcca0286c07d33fd7669cac067ef69265ec2396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dba2871a633f0fbbb42fcf34a225eaecd208e2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_b4982dec0494019e99f461beb8a7a739f9f55292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_c91fd9d2523caca994183d58b9e8210abdacc9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f4fcdac17752f31625f776b4c6adff6571275e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_d26e23d50a54536b77fd9a422504b93a8dfbf3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_25ac7b06bd952e38095cda273d41bd2dfe1ecb3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/kumam8/Desktop/AndroidAsyncTask/CheckConnection/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ae391abbecac26a00f4aa5f9a5bffe01148d6dce.jar" />
+    </item>
+
+</items>
